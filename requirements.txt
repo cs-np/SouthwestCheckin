@@ -1,6 +1,7 @@
 coverage
 datetime
 docopts
+flask
 pycodestyle
 pytest
 pytest-cov
